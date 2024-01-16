@@ -1,0 +1,42 @@
+  body{ 
+      background-color: aqua;
+  }
+  table{
+      margin: auto;
+  }
+  table, td{
+      border-collapse: collapse;
+  }
+  td{
+      width: 200px;
+      height: 200px;
+      /* background-color: black; */
+  }
+  .black{
+      background-color: black;
+  }
+  .white{
+      background-color: white;
+  }
+  h1{
+      text-align: center;
+  }
+  #egyesdiszin{
+      background-color: chocolate;
+}
+  .nagydoboz{
+     display: flex;
+     /*border: 2px dashed black;*/
+      
+
+
+}
+
+.kisdoboz{
+    background-color: blanchedalmond;
+    border: 1px solid palevioletred;
+    border-radius: 15px;
+    margin: 0px 15px;
+    padding: 10px;
+    text-align: justify;
+}
